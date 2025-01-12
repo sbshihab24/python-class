@@ -4,7 +4,8 @@ if temperature >=30:
     print("Hot Weather")
 else:
     print("Normal weather")
-
+    
+#if,elif and else
 temperature= 40
 
 if temperature >40:
